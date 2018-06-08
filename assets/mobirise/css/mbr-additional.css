@@ -1762,7 +1762,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff7f9f !important;
 }
 .cid-qTvx5hkyKt {
   background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
@@ -1786,7 +1786,7 @@ body {
 }
 .cid-qUh2qSC56J {
   padding-top: 15px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #deefe5;
 }
 .cid-qUh2qSC56J .card-img {
@@ -1806,6 +1806,7 @@ body {
 }
 .cid-qUh2qSC56J .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-qUh2qSC56J .card-wrapper {
   height: 100%;
